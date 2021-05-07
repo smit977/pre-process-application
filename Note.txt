@@ -2,6 +2,6 @@ Application still have some limitations but it is working quite good and time sa
 
 some time it won't work because of bad input
 
-Available extensions are : csv,xlsx,json
+Available input files are : csv,xlsx,json
 
-output formate: csv
+output file: csv
